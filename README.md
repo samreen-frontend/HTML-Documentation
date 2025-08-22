@@ -19,3 +19,7 @@ This repo is created to organize my HTML learning journey and help beginners und
 Click below to download the complete HTML Documentation as a ZIP file: 
 
 [⬇️ Download _HTML Documentation_.zip](./_HTML%20Documentation_.zip)
+
+➡️ After clicking the link, you will be redirected to the file page.  
+➡️ Then click on **"View Raw"** (Middle of the page).  
+➡️ The ZIP file will start downloading to your PC.  
