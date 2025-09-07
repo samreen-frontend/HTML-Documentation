@@ -23,9 +23,3 @@ Click below to download the complete HTML Documentation as a ZIP file:
 ➡️ After clicking the link, you will be redirected to the file page.  
 ➡️ Then click on **"View Raw"** (Middle of the page).  
 ➡️ The ZIP file will start downloading to your PC.  
-
-## 🚀 How to Contribute
-
-This is a beginner-friendly repository! You can help improve the HTML documentation by submitting fixes, improvements, or examples.
-
-  
